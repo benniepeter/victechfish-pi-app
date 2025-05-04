@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[![PR Opened](https://github.com/cloudflare/cloudflare-docs/actions/workflows/pr.yml/badge.svg)](https://github.com/cloudflare/cloudflare-docs/actions/workflows/pr.yml)<!DOCTYPE html>
 <html>
 <head>
     <title>VicTechFish App</title>
