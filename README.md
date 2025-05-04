@@ -6,9 +6,8 @@
 </head>
 <body>
     <script>
-        Pi.init({
-            version: "2.0",
-            sandbox: true,  // Weka 'false' kwa production
+        Pi.init({ version: "2.0", ... })
+            sandbox: true,   Weka 'false' kwa production
             onReady: function() {
                 console.log("Pi SDK imeandaliwa kikamilifu!");
                 
