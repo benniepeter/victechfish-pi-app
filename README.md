@@ -5,7 +5,7 @@
 <script>
   Pi.init({
     version: "2.0",
-    sandbox: false, // Weka 'false' kwa production
+    sandbox: false, 
     onReady: function() {
       console.log("Pi SDK imeandaliwa!");
       document.getElementById("pay-button").addEventListener("click", payWithPi);
